@@ -1,0 +1,22 @@
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Archivos.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Clases Instanciables.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Clases_Abstractas.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Clases Instanciables.pdb
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Clases_Abstractas.pdb
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\chris_x4urr38\Desktop\Saliba.Gabriel.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

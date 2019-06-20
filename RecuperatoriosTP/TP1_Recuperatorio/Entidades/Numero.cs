@@ -25,7 +25,7 @@ namespace Entidades
         /// Constructor por defecto, setea al atributo numero con 0.
         /// </summary>
 
-        public Numero() : this("0")
+        public Numero() : this(0)
         {
             
         }
@@ -47,7 +47,7 @@ namespace Entidades
 
         public Numero(string strnumero)
         {
-            SetNumero = strnumero;
+            this.SetNumero = strnumero;
         }
 
         /// <summary>
